@@ -1,0 +1,1 @@
+export const JWT_PASSWORD = "2142nklvsdfhl_creating METAVERSE APPLICATION#^^#$@^kfdnh#1786096"
